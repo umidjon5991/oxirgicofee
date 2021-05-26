@@ -1,0 +1,55 @@
+.section-create {
+  display: block;
+  background-image: url(../images/Bitmap.jpg);
+  background-size: 1200px 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 200px 86px;
+}
+
+.section-create-about {
+  display: block;
+  background-image: url(../../images-about/Bitmap.jpg);
+  background-size: 1200px 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 80px 86px;
+}
+
+.section-create-plan {
+  display: block;
+  background-image: url(../../images-about/plan.jpg);
+  background-size: 1200px 450px;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 80px 86px;
+}
+
+.section-h1 {
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 72px;
+  width: 530px;
+  padding: 16 0px;
+  color: #fff;
+}
+.section-paragraf {
+  font-size: 16px;
+  line-height: 26px;
+  color: #fefcf7;
+  width: 445px;
+  padding: 16px 0;
+  padding-bottom: 70px;
+  opacity: 0.8;
+}
+
+.section-button {
+  font-size: 16px;
+  line-height: 26px;
+  color: #fefcf7;
+  width: 217px;
+  height: 56px;
+  background-color: #0e8784;
+  border-radius: 7px;
+  border: none;
+}
